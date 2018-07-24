@@ -1,5 +1,4 @@
 # hello-world
-first git
 
 Hi Everyone!
 
